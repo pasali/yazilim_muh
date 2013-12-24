@@ -1,0 +1,7 @@
+[13-Apr-2013 09:16:19 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/hursitto/public_html/application/controllers/sayfa.php on line 166
+[13-Apr-2013 09:17:43 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/hursitto/public_html/application/controllers/sayfa.php on line 166
+[13-Apr-2013 09:44:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hursitto/public_html/application/controllers/sayfa.php on line 196
+[13-Apr-2013 09:44:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hursitto/public_html/application/controllers/sayfa.php on line 196
+[13-Apr-2013 09:44:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hursitto/public_html/application/controllers/sayfa.php on line 196
+[13-Apr-2013 09:44:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hursitto/public_html/application/controllers/sayfa.php on line 196
+[13-Apr-2013 09:44:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hursitto/public_html/application/controllers/sayfa.php on line 196
